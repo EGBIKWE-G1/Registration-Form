@@ -1,0 +1,19 @@
+.app {
+   background-color: #282c34;
+  min-height: 100vh;
+}
+.container-header {
+  background: #444;
+  justify-items: center;
+}
+.header{
+  color: #fff;
+}
+
+.footer{
+  color: #fff;
+}
+
+Label {
+  color: #fff;
+}
